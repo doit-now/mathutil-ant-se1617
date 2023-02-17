@@ -6,6 +6,9 @@
 * A demonstration of applying CI - Continuous Integration process based on GitHub Actions and Ant build tool
 * ...
 
+### Screenshots
+![source_code_junit](https://github.com/doit-now/mathutil-ant-se1617/blob/main/screenshots/source_code_with_junit.png)
+
 ### Connect me via hoang.nguyenthe@gmail.com
 #### Copyright &#169; 2023 giáo.làng
   
